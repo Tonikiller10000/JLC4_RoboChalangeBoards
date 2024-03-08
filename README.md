@@ -13,15 +13,13 @@ It contains:
 
 <table>
   <tr>
-    <td><img>https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4441.png</img></td>  
-    <td><img>https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4442.png</img></td>  
-    <td><img>https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4443.png</img></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4441.png" ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4442.png" ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J4443.png" ></td>  
   </tr>      
 </table>
 
-
-
-<img>https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J441.png</img>
+<img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/J441.png" >
 
 
 
