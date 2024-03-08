@@ -14,8 +14,8 @@ It contains:
 ### The board:
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4441.png" height = 300 width= 300  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4443.png" height = 300 width= 300  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j441.png"  height = 300 width= 300  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4441.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4443.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j441.png"  height = 250 width= 250  ></td>
   </tr>      
 </table>
